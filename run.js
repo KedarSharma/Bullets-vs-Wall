@@ -1,6 +1,7 @@
 var wall,waal;
 var red, yellow, green;
 var damage;
+var soundOG;
 var bullet;
 var takenVal = localStorage.getItem("passedName");
 var play;
