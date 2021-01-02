@@ -22,7 +22,7 @@ function preload(){
     BY15 = loadImage("Images/Inverted/BY15.png");//98
     Striker = loadImage("Images/Inverted/Strikeri.png");//90
     Play = loadImage("Images/Play.jpg");
-    soundOG = loadSound("Gun sound.mp3");
+    soundOG = loadSound("Gunsound.mp3");
 }
 
 function setup() {
